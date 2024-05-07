@@ -1,3 +1,3 @@
 # HandTalk-AI
 
-### AI lab that trains, validates and deploy our AI models that runs HandTalk app
+### AI lab that trains, validates and deploy our AI models that runs HandTalk software
